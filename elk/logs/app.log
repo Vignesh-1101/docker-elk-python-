@@ -1,0 +1,14 @@
+{"asctime": "2025-04-18 17:24:01,261", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:49:46,401", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:49:48,217", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:49:50,608", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:49:51,020", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:52:33,242", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:52:34,550", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:52:36,157", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:55:15,958", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success"}
+{"asctime": "2025-04-18 17:55:21,961", "levelname": "INFO", "message": "Test endpoint hit", "path": "/test", "status": "success", "test_data": {"value": 42}}
+{"asctime": "2025-04-18 17:59:39,255", "levelname": "INFO", "message": "Test endpoint hit", "path": "/test", "status": "success", "test_data": {"value": 42}, "@timestamp": "2025-04-18 17:59:39,255", "level": "INFO"}
+{"asctime": "2025-04-18 18:16:48,580", "levelname": "INFO", "message": "Root endpoint hit", "path": "/", "status": "success", "@timestamp": "2025-04-18 18:16:48,580", "level": "INFO"}
+{"asctime": "2025-04-28 11:54:36,089", "levelname": "INFO", "message": null, "path": "/", "status": "success", "level": "INFO", "timestamp": null, "@timestamp": "2025-04-28 11:54:36,089"}
+{"asctime": "2025-04-28 11:59:47,293", "levelname": "INFO", "message": null, "path": "/", "status": "success", "level": "INFO", "timestamp": null, "@timestamp": "2025-04-28 11:59:47,293"}
